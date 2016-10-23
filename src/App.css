@@ -21,7 +21,16 @@ body {
 .header-box {
   padding: 5px;
   height: 100%;
+}
 
+.attractions-list {
+  padding-top: 40px;
+}
+
+.footer-box {
+  padding: 5px;
+  padding-top: 50px;
+  height: 100%;
 }
 
 .app-box {
